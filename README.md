@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ehsan Setayesh</h1>
 <h3 align="center">Senior Mobile Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsansetayesh" alt="ehsansetayesh" /></a> </p>
 
 - 📫 How to reach me **ehsan.setayesh.rad@gmail.com**
 
